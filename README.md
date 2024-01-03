@@ -21,3 +21,7 @@ If the program cannot solve the puzzle, the following will be printed:
 <img width="487" alt="Screen Shot 2024-01-02 at 7 11 36 PM" src="https://github.com/sungmogi/sudoku_solver/assets/131221622/45cc8ad1-d471-4f54-b9af-c349313677fd">
 
 where the line printed below the solution shows the possible options for each slot. 
+
+### Testing
+
+The program had a 6/10 success rate for solving 10 random "hard" Sudoku puzzles from sudoku.com. 
